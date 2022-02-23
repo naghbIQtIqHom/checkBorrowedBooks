@@ -21,6 +21,12 @@ python3 main.py
   pip3 install selenium
   pip3 install chromedriver-binary==93.0.4577.63 # 適切なバーションを入れる
   ```
+
+* selenium chrome driver をアップデートするとき
+  ```
+  pip3 install -U chromedriver-binary==98.0.4758.102
+  ```
+
 * ```src/secret.py``` を作る。中はこんな感じにする。
   ```
   accountData = {

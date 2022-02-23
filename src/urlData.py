@@ -12,5 +12,17 @@ libraryUrl = {
     "武蔵野市立図書館" : {
         "url" : "https://www.library.musashino.tokyo.jp/",
         "class" : "MusashinoLibrary"
-    }
+    },
+    "西東京市立図書館" : {
+        "url" : "https://www.library.city.nishitokyo.lg.jp/",
+        "class" : "NishitokyoLibrary"
+    },
+    "新宿区立図書館" : {
+        "url" : "https://www.library.shinjuku.tokyo.jp/",
+        "class" : "ShinjukuLibrary"
+    },
+    "豊島区立図書館" : {
+        "url" : "https://www.library.toshima.tokyo.jp/",
+        "class" : "ToshimaLibrary"
+    }    
 }

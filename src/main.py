@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 
 from musashino import MusashinoLibrary
-from suginami import SuginamiLibrary
 from nerima import NerimaLibrary
+from nishitokyo import NishitokyoLibrary
+from shinjuku import ShinjukuLibrary
+from suginami import SuginamiLibrary
+from toshima import ToshimaLibrary
 
 from secret import accountData
 from urlData import libraryUrl
